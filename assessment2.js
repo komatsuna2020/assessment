@@ -120,6 +120,6 @@ console.log(assessment('太郎'));
 console.log(assessment('岡田'));
 
 console.assert(
-    assessment('太郎') === '太郎のいいところは決断力です。太郎がする決断にいつも助けられる人がいます。',
+    assessment('太郎') === '太郎のいいところはユニークさです。太郎だけのその特徴が皆を楽しくさせます。',
     'エラーです。正しく動作していません'
 );
